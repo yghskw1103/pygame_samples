@@ -1,3 +1,8 @@
+aaa
+魚買いました
+
+
+
 # pygame_samples
 
  - demo_01.py: pygameの超簡単なデモ。
